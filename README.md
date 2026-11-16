@@ -2,7 +2,7 @@
 
 A 3D "the floor is lava" browser game for up to 4 players online. No sign-in needed.
 
-**Play:** https://philipfriasfncocybersecurity.github.io/floor-is-lava/
+**Play:** https://philipfriasfncocybersecurity.github.io/Floor-is-lava/
 
 ## How to play with family and friends
 1. Open the link, type your name, and tap **Join online room**.
